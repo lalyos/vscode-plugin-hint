@@ -3,9 +3,16 @@
   "displayName": "Hint",
   "description": "gets hint for terminal commands",
   "version": "0.0.1",
+  "publisher": "lalyos",
   "engines": {
     "vscode": "^1.71.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lalyos/vscode-plugin-hint.git"
+  },
+  "homepage": "https://github.com/lalyos/vscode-plugin-hint/blob/master/hint/README.md",
+
   "categories": [
     "Other"
   ],
