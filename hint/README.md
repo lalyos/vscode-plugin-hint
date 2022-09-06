@@ -1,10 +1,12 @@
 # hint README
 
+![screenshot](lazy.png)
+
 This Plugin is used on lalyos's trainings when working in a terminal
 
 ## Install
 
-- Install from the [VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=lalyos.hint)
+- Install from the [VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=Lalyos.hint)
 
 - Manually
   - download vsix file from: [v0.0.0.1 Release](https://github.com/lalyos/vscode-plugin-hint/releases/download/v0.0.1/hint-0.0.1.vsix)

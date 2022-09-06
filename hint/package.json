@@ -1,9 +1,10 @@
 {
   "name": "hint",
-  "displayName": "Hint",
-  "description": "gets hint for terminal commands",
-  "version": "0.0.1",
+  "displayName": "Training Hints @ lalyos",
+  "description": "gets hints for terminal commands on trainings held by lalyos",
+  "version": "0.0.2",
   "publisher": "lalyos",
+  "icon": "lazy.png",
   "engines": {
     "vscode": "^1.71.0"
   },
